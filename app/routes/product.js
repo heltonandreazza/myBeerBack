@@ -1,3 +1,5 @@
+'use strict';
+
 const db = require('../db');
 const Category = db.categoryModel;
 const Brewery = db.breweryModel;

@@ -1,3 +1,5 @@
+'use strict';
+
 const db = require('../db');
 const User = db.userModel;
 const Cart = db.cartModel;

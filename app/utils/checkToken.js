@@ -1,3 +1,5 @@
+'use strict';
+
 const User = require('../db').userModel;
 
 //keep counting total user cart itens 
