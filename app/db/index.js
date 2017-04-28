@@ -7,7 +7,7 @@ const Schema = Mongoose.Schema;
 
 //Log an error if the connection fails
 Mongoose.connection.on('error', error => {
-    logger.log('error', 'Mongoose connection error: ' + error);
+    logger.log('error', 'OPS, Mongoose connection error: ' + error);
 })
 
 //Create Schemas that defines the structure for storing user data
