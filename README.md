@@ -1,11 +1,12 @@
 # myBeerBack
 
+API para aplicação ecommerce myBeer onde você pode criar a página da sua cervejaria, vender os seus produtos e comprar de outros cervejeiros como um apreciador de cerveja artesanal.
+
 The app uses:
 
 - Nodejs
 - ExpressJs
 - MongoDB
-- EJS
 - Redis
 - Heroku
 
